@@ -1,0 +1,350 @@
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\appsettings.json
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\FBLogIn.exe
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\FBLogIn.deps.json
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\FBLogIn.runtimeconfig.json
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\FBLogIn.runtimeconfig.dev.json
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\FBLogIn.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\ref\FBLogIn.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\FBLogIn.pdb
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\obj\Debug\net5.0\FBLogIn.csproj.AssemblyReference.cache
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\obj\Debug\net5.0\FBLogIn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\obj\Debug\net5.0\FBLogIn.AssemblyInfoInputs.cache
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\obj\Debug\net5.0\FBLogIn.AssemblyInfo.cs
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\obj\Debug\net5.0\FBLogIn.csproj.CoreCompileInputs.cache
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\obj\Debug\net5.0\FBLogIn.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\obj\Debug\net5.0\FBLogIn.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\obj\Debug\net5.0\staticwebassets\FBLogIn.StaticWebAssets.Manifest.cache
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\obj\Debug\net5.0\staticwebassets\FBLogIn.StaticWebAssets.xml
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\obj\Debug\net5.0\scopedcss\bundle\FBLogIn.styles.css
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\obj\Debug\net5.0\FBLogIn.RazorTargetAssemblyInfo.cache
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\obj\Debug\net5.0\FBLogIn.csproj.CopyComplete
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\obj\Debug\net5.0\FBLogIn.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\obj\Debug\net5.0\ref\FBLogIn.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\obj\Debug\net5.0\FBLogIn.pdb
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\obj\Debug\net5.0\FBLogIn.genruntimeconfig.cache
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\IONIC\registro\FBLogIn\FBLogIn\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\appsettings.json
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\FBLogIn.exe
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\FBLogIn.deps.json
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\FBLogIn.runtimeconfig.json
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\FBLogIn.runtimeconfig.dev.json
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\FBLogIn.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\ref\FBLogIn.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\FBLogIn.pdb
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\obj\Debug\net5.0\FBLogIn.csproj.AssemblyReference.cache
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\obj\Debug\net5.0\FBLogIn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\obj\Debug\net5.0\FBLogIn.AssemblyInfoInputs.cache
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\obj\Debug\net5.0\FBLogIn.AssemblyInfo.cs
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\obj\Debug\net5.0\FBLogIn.csproj.CoreCompileInputs.cache
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\obj\Debug\net5.0\FBLogIn.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\obj\Debug\net5.0\FBLogIn.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\obj\Debug\net5.0\staticwebassets\FBLogIn.StaticWebAssets.Manifest.cache
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\obj\Debug\net5.0\staticwebassets\FBLogIn.StaticWebAssets.xml
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\obj\Debug\net5.0\scopedcss\bundle\FBLogIn.styles.css
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\obj\Debug\net5.0\FBLogIn.RazorTargetAssemblyInfo.cache
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\obj\Debug\net5.0\FBLogIn.csproj.CopyComplete
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\obj\Debug\net5.0\FBLogIn.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\obj\Debug\net5.0\ref\FBLogIn.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\obj\Debug\net5.0\FBLogIn.pdb
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 4\FBLogIn\obj\Debug\net5.0\FBLogIn.genruntimeconfig.cache
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\appsettings.json
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\FBLogIn.exe
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\FBLogIn.deps.json
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\FBLogIn.runtimeconfig.json
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\FBLogIn.runtimeconfig.dev.json
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\FBLogIn.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\ref\FBLogIn.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\FBLogIn.pdb
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\obj\Debug\net5.0\FBLogIn.csproj.AssemblyReference.cache
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\obj\Debug\net5.0\FBLogIn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\obj\Debug\net5.0\FBLogIn.AssemblyInfoInputs.cache
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\obj\Debug\net5.0\FBLogIn.AssemblyInfo.cs
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\obj\Debug\net5.0\FBLogIn.csproj.CoreCompileInputs.cache
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\obj\Debug\net5.0\FBLogIn.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\obj\Debug\net5.0\FBLogIn.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\obj\Debug\net5.0\staticwebassets\FBLogIn.StaticWebAssets.Manifest.cache
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\obj\Debug\net5.0\staticwebassets\FBLogIn.StaticWebAssets.xml
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\obj\Debug\net5.0\scopedcss\bundle\FBLogIn.styles.css
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\obj\Debug\net5.0\FBLogIn.RazorTargetAssemblyInfo.cache
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\obj\Debug\net5.0\FBLogIn.csproj.CopyComplete
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\obj\Debug\net5.0\FBLogIn.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\obj\Debug\net5.0\ref\FBLogIn.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\obj\Debug\net5.0\FBLogIn.pdb
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5\FBLogIn\obj\Debug\net5.0\FBLogIn.genruntimeconfig.cache
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\appsettings.json
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\FBLogIn.exe
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\FBLogIn.deps.json
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\FBLogIn.runtimeconfig.json
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\FBLogIn.runtimeconfig.dev.json
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\FBLogIn.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\ref\FBLogIn.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\FBLogIn.pdb
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\obj\Debug\net5.0\FBLogIn.csproj.AssemblyReference.cache
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\obj\Debug\net5.0\FBLogIn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\obj\Debug\net5.0\FBLogIn.AssemblyInfoInputs.cache
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\obj\Debug\net5.0\FBLogIn.AssemblyInfo.cs
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\obj\Debug\net5.0\FBLogIn.csproj.CoreCompileInputs.cache
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\obj\Debug\net5.0\FBLogIn.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\obj\Debug\net5.0\FBLogIn.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\obj\Debug\net5.0\staticwebassets\FBLogIn.StaticWebAssets.Manifest.cache
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\obj\Debug\net5.0\staticwebassets\FBLogIn.StaticWebAssets.xml
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\obj\Debug\net5.0\scopedcss\bundle\FBLogIn.styles.css
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\obj\Debug\net5.0\FBLogIn.RazorTargetAssemblyInfo.cache
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\obj\Debug\net5.0\FBLogIn.csproj.CopyComplete
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\obj\Debug\net5.0\FBLogIn.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\obj\Debug\net5.0\ref\FBLogIn.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\obj\Debug\net5.0\FBLogIn.pdb
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn 5 - copia\FBLogIn\obj\Debug\net5.0\FBLogIn.genruntimeconfig.cache
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\appsettings.json
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\FBLogIn.exe
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\FBLogIn.deps.json
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\FBLogIn.runtimeconfig.json
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\FBLogIn.runtimeconfig.dev.json
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\FBLogIn.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\ref\FBLogIn.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\FBLogIn.pdb
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\obj\Debug\net5.0\FBLogIn.csproj.AssemblyReference.cache
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\obj\Debug\net5.0\FBLogIn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\obj\Debug\net5.0\FBLogIn.AssemblyInfoInputs.cache
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\obj\Debug\net5.0\FBLogIn.AssemblyInfo.cs
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\obj\Debug\net5.0\FBLogIn.csproj.CoreCompileInputs.cache
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\obj\Debug\net5.0\FBLogIn.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\obj\Debug\net5.0\FBLogIn.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\obj\Debug\net5.0\staticwebassets\FBLogIn.StaticWebAssets.Manifest.cache
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\obj\Debug\net5.0\staticwebassets\FBLogIn.StaticWebAssets.xml
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\obj\Debug\net5.0\scopedcss\bundle\FBLogIn.styles.css
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\obj\Debug\net5.0\FBLogIn.RazorTargetAssemblyInfo.cache
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\obj\Debug\net5.0\FBLogIn.csproj.CopyComplete
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\obj\Debug\net5.0\FBLogIn.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\obj\Debug\net5.0\ref\FBLogIn.dll
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\obj\Debug\net5.0\FBLogIn.pdb
+C:\Users\ITOSZAN\Desktop\asp\FBLogIn7\FBLogIn\obj\Debug\net5.0\FBLogIn.genruntimeconfig.cache
